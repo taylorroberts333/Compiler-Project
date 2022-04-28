@@ -1,0 +1,7 @@
+int, int, int entry(int name, bool eheh, int sdffsd)
+{
+    bool b; 
+    int i; 
+    wrongtype var; 
+}
+T5 on line : 6  Variable: var declared with illegal type: wrongtype

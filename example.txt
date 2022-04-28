@@ -1,0 +1,49 @@
+int, int, int entry(int name, int eheh, int sdffsd)
+{
+	int f = 2;
+	int j = 7 + (0);
+	j = 3;
+	int num;
+	if (true == true)
+		int p = 3;
+	int p;
+	if(3 == 3)
+	{
+		int l = 5;
+		p = 5;
+		if(2 > 3)
+		{
+		p = l;
+		num = 3;
+		int jan = 5;
+		}
+	}
+}
+int hell0(int name)
+{
+	int f = 2 - 3;
+	int num = 3;
+	entry(4, 7, 6);
+}
+int hi()
+{
+	int f = 4;
+	int num;
+	num = 3;
+	if(3 == 3)
+	{
+		f = hell0(5);
+	}
+	for(int l; f == f; f = 3;)
+	{
+		num = 5;
+		num = num;
+	}
+	int p = 7;
+	hell0(num);
+	f = 5;
+	int j = hell0(6);
+	return 1;
+	if(true)
+		int a = 6;
+}
